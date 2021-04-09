@@ -6,6 +6,7 @@ My name is Artem Korsakov (Артём Корсаков). I am a QA Automation En
     - [artemkorsakov@mail.ru](mailto:artemkorsakov@mail.ru)
     - [linkedIn](https://www.linkedin.com/in/%D0%B0%D1%80%D1%82%D1%91%D0%BC-%D0%BA%D0%BE%D1%80%D1%81%D0%B0%D0%BA%D0%BE%D0%B2-a682646b/)
 - ⚡ Fun fact about me:
+    - [Functional Programming in Scala specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/JJ3G5FSL3EQP)
     - <img src="https://projecteuler.net/profile/fonkost.png">
 
 <!--
