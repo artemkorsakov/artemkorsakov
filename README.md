@@ -8,6 +8,8 @@ My name is Artem Korsakov (Артём Корсаков). I am a QA Automation En
 - ⚡ Fun fact about me:
     - [Functional Programming in Scala specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/JJ3G5FSL3EQP)
     - <img src="https://projecteuler.net/profile/fonkost.png">
+    - [Modern Big Data Analysis with SQL specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/9MTDXE38R3B5)
+
 
 <!--
 - 🔭 I’m currently working on ...
