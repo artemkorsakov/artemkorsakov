@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Artem Korsakov (Артём Корсаков). I am a QA Automation Engineer. I love mathematics, algorithms and Scala.
+My name is Artem Korsakov (Артём Корсаков). I am a Data Engineer (Scala). I love mathematics, algorithms and Scala.
 
 - 📫 How to reach me:  (Russian or English)
     - [artemkorsakov@mail.ru](mailto:artemkorsakov@mail.ru)
@@ -8,7 +8,7 @@ My name is Artem Korsakov (Артём Корсаков). I am a QA Automation En
 - ⚡ Fun fact about me:
     - [Functional Programming in Scala specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/JJ3G5FSL3EQP)
     - <img src="https://projecteuler.net/profile/fonkost.png">
-    - [Modern Big Data Analysis with SQL specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/9MTDXE38R3B5)
+   
 
 
 <!--
@@ -20,5 +20,6 @@ My name is Artem Korsakov (Артём Корсаков). I am a QA Automation En
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- [Modern Big Data Analysis with SQL specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/9MTDXE38R3B5)
 -->
 
