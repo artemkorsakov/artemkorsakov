@@ -6,7 +6,6 @@ My name is Artem Korsakov (Артём Корсаков). I am a Data Engineer (S
     - [artemkorsakov@mail.ru](mailto:artemkorsakov@mail.ru)
     - [linkedIn](https://www.linkedin.com/in/artem-korsakov-a682646b/)
 - ⚡ Fun fact about me:
-    - [Functional Programming in Scala specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/JJ3G5FSL3EQP)
     - <img src="https://projecteuler.net/profile/fonkost.png">
    
 
@@ -20,6 +19,5 @@ My name is Artem Korsakov (Артём Корсаков). I am a Data Engineer (S
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- [Modern Big Data Analysis with SQL specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/9MTDXE38R3B5)
 -->
 
