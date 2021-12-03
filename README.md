@@ -5,12 +5,14 @@ My name is Artem Korsakov (Артём Корсаков). I am a Data Engineer (S
 - 📫 How to reach me:  (Russian or English)
     - [artemkorsakov@mail.ru](mailto:artemkorsakov@mail.ru)
     - [linkedIn](https://www.linkedin.com/in/artem-korsakov-a682646b/)
-- ⚡ Fun fact about me:
-    - <img src="https://projecteuler.net/profile/fonkost.png">
+
    
 
 
 <!--
+- ⚡ Fun fact about me:
+    - <img src="https://projecteuler.net/profile/fonkost.png">
+
 - <img src="https://projecteuler.net/profile/Artem_Korsakov.png">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
