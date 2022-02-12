@@ -1,19 +1,19 @@
 ### Hi there 👋
 
-My name is Artem Korsakov (Артём Корсаков). I am a Data Engineer (Scala). I love mathematics, algorithms and Scala.
+My name is Artem Korsakov (Артём Корсаков).
 
-- 📫 How to reach me:  (Russian or English)
-    - [artemkorsakov@mail.ru](mailto:artemkorsakov@mail.ru)
-    - [linkedIn](https://www.linkedin.com/in/artem-korsakov-a682646b/)
-
-   
-
+- ⚡ Fun facts about me:
+  - Now I am a Data Engineer (Scala).
+  - I have about 14 years of experience in QA.
+  - I love Scala, Fuctional programming and Maths.
 
 <!--
+- 📫 How to reach me:  (English or Russian)
+  - [artemkorsakov@mail.ru](mailto:artemkorsakov@mail.ru)
+  - [linkedIn](https://www.linkedin.com/in/artem-korsakov-a682646b/)
 - ⚡ Fun fact about me:
     - <img src="https://projecteuler.net/profile/fonkost.png">
-
-- <img src="https://projecteuler.net/profile/Artem_Korsakov.png">
+    - <img src="https://projecteuler.net/profile/Artem_Korsakov.png">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
